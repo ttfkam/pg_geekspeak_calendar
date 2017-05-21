@@ -1,0 +1,5 @@
+# geekspeak_calendar extension
+comment = 'GeekSpeak podcast calendar schema (https://geekspeak.org)'
+default_version = '1.0.0'
+relocatable = true
+requires = 'geekspeak'
